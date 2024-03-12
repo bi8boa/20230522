@@ -1,6 +1,8 @@
 #include<unistd,h>
 
 int main(){
-	printf("12345\n");
+	
+	int a=10;
+	printf("%d\n",a);
 	return 0;
 }
